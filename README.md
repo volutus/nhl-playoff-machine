@@ -1,4 +1,4 @@
-# NHL Playoff Machine
+# NHL Playoff Machine [abandoned]
 
 The goal of this application is to create something like the NFL playoff machine from ESPN.
 
@@ -22,3 +22,6 @@ https://github.com/peruukki/nhl-score-api
 
 https://moneypuck.com/index.html?date=2024-03-18
 
+### Notes
+
+This used to be hooked up to my GitHub Pages config, but I renamed the repo to open that namespace for another project since I abandoned this one (the API was too finnicky)
